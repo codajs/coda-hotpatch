@@ -1,0 +1,15 @@
+{
+  "name": "coda-hotpatch",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Casper Beyer <contact@caspervonb.com>",
+  "bin": "bin/coda-hotpatch",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rdbgp": "github:codajs/rdbgp",
+    "rdbgp-hotpatch": "github:codajs/rdbgp-hotpatch"
+  }
+}
